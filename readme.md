@@ -1,4 +1,4 @@
-# LandingPage for XLP website
+= LandingPage for XLP website =
 
 > This page is created with a template which mainly applies bootstrap as the basic framework.
 
