@@ -1,6 +1,6 @@
-= LandingPage for XLP website =
+# LandingPage for XLP website
 
-This page is created with a template which mainly applies bootstrap as the basic framework.
+> This page is created with a template which mainly applies bootstrap as the basic framework.
 
 This repository will be kept up-to-date in order to test the updating workflow of XLP system.
 
